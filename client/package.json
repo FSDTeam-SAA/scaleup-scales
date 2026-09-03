@@ -13,7 +13,7 @@
     "@dicebear/avatars": "^4.10.8",
     "@dicebear/avatars-avataaars-sprites": "^4.10.8",
     "@dicebear/collection": "^9.2.2",
-    "@dicebear/core": "^9.2.2",
+    "@dicebear/core": "^9.4.3",
     "@radix-ui/react-slot": "^1.1.2",
     "@react-spring/web": "^9.7.5",
     "@tailwindcss/postcss": "^4.0.3",
